@@ -1,0 +1,14 @@
+C:\Users\GEH\source\repos\ControlEscolarApp\Extencion\bin\Debug\Extencion.dll
+C:\Users\GEH\source\repos\ControlEscolarApp\Extencion\bin\Debug\Extencion.pdb
+C:\Users\GEH\source\repos\ControlEscolarApp\Extencion\bin\Debug\AccesoDatos.ContolEscolarApp.dll
+C:\Users\GEH\source\repos\ControlEscolarApp\Extencion\bin\Debug\Entidades.ControlEscolarApp.dll
+C:\Users\GEH\source\repos\ControlEscolarApp\Extencion\bin\Debug\ConexionBd.dll
+C:\Users\GEH\source\repos\ControlEscolarApp\Extencion\bin\Debug\MySql.Data.dll
+C:\Users\GEH\source\repos\ControlEscolarApp\Extencion\bin\Debug\AccesoDatos.ContolEscolarApp.pdb
+C:\Users\GEH\source\repos\ControlEscolarApp\Extencion\bin\Debug\Entidades.ControlEscolarApp.pdb
+C:\Users\GEH\source\repos\ControlEscolarApp\Extencion\bin\Debug\ConexionBd.pdb
+C:\Users\GEH\source\repos\ControlEscolarApp\Extencion\obj\Debug\Extensions.csprojAssemblyReference.cache
+C:\Users\GEH\source\repos\ControlEscolarApp\Extencion\obj\Debug\Extensions.csproj.CoreCompileInputs.cache
+C:\Users\GEH\source\repos\ControlEscolarApp\Extencion\obj\Debug\Extensions.csproj.CopyComplete
+C:\Users\GEH\source\repos\ControlEscolarApp\Extencion\obj\Debug\Extencion.dll
+C:\Users\GEH\source\repos\ControlEscolarApp\Extencion\obj\Debug\Extencion.pdb
